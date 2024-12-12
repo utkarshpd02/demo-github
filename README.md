@@ -1,4 +1,4 @@
 # demo-github
-This is my first github project/repository.
+This is my first github project/orrepository.
 <br>
 Author: Utkarsh Prasad
